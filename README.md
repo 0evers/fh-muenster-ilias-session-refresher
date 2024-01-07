@@ -5,7 +5,7 @@
 [![Chrome Webstore](https://img.shields.io/chrome-web-store/rating/lifdgingcnbhbalcacodcicldbkfdpln)](https://chrome.google.com/webstore/detail/kit-ilias-session-refresh/lifdgingcnbhbalcacodcicldbkfdpln)
 [![Chrome Webstore](https://img.shields.io/chrome-web-store/users/lifdgingcnbhbalcacodcicldbkfdpln)](https://chrome.google.com/webstore/detail/kit-ilias-session-refresh/lifdgingcnbhbalcacodcicldbkfdpln)
 
-This chrome and firefox extension prevents the KIT Ilias from logging you out automatically due to inactivity.
+This chrome and firefox extension prevents the FH Münster Ilias from logging you out automatically due to inactivity.
 
 # Usage
 * Click on your profile pic in the upper right corner and go into settings

@@ -1,4 +1,4 @@
-# Kit Ilias Session Refresher
+# FH Münster Ilias Session Refresher
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 <br>
 [![Chrome Webstore Link](https://img.shields.io/chrome-web-store/v/lifdgingcnbhbalcacodcicldbkfdpln)](https://chrome.google.com/webstore/detail/kit-ilias-session-refresh/lifdgingcnbhbalcacodcicldbkfdpln)

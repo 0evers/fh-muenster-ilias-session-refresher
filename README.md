@@ -1,9 +1,11 @@
 # FH Münster Ilias Session Refresher
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 <br>
+<!---
 [![Chrome Webstore Link](https://img.shields.io/chrome-web-store/v/lifdgingcnbhbalcacodcicldbkfdpln)](https://chrome.google.com/webstore/detail/kit-ilias-session-refresh/lifdgingcnbhbalcacodcicldbkfdpln)
 [![Chrome Webstore](https://img.shields.io/chrome-web-store/rating/lifdgingcnbhbalcacodcicldbkfdpln)](https://chrome.google.com/webstore/detail/kit-ilias-session-refresh/lifdgingcnbhbalcacodcicldbkfdpln)
 [![Chrome Webstore](https://img.shields.io/chrome-web-store/users/lifdgingcnbhbalcacodcicldbkfdpln)](https://chrome.google.com/webstore/detail/kit-ilias-session-refresh/lifdgingcnbhbalcacodcicldbkfdpln)
+-->
 
 This chrome and firefox extension prevents the FH Münster Ilias from logging you out automatically due to inactivity.
 
